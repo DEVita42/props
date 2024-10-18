@@ -6,6 +6,7 @@ const Welcome = ({name, age}) => {
     <div>
       <strong>Welcome, {name}!</strong>
       <Age age={age}/>
+     
     </div>
   );
 };

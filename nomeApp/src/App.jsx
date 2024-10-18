@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div>
-    <Welcome name={'lorenzo'}/>
+    <Welcome name={'lorenzo'} age={24}/>
 
     <Welcome2 name={name}/>
     </div>
